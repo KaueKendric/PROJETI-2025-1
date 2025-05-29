@@ -1,4 +1,3 @@
-# Arquivo .gitignore para projeto Python/Django
 
 # Ambiente Virtual
 .venv/
